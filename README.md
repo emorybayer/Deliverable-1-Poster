@@ -1,1 +1,3 @@
-# Deliverable-1-Poster
+This assignment involved the creation of a poster presenting my analysis of UNHCR asylum case data. Specifically, my focus was on examining the influence of the asylum applicants' country of origin on the percentage of asylum case rejections. To address this question, I filtered the dataset to include applicants solely from Afghanistan, Ukraine, Cuba, Haiti, and Venezuela. These countries were selected due to their significant numbers of displaced individuals in recent years.
+
+I then created two bar graphs comparing the number of asylum applications to the number of asylum rejections by country of origin. I then ran a regression analysis to generate a box plot illustrating the median asylum rejection rate based on the country of origin of asylum applicants.
